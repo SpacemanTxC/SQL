@@ -1,7 +1,5 @@
 # SQL
 SQL Storage and Practice 
-
-<h3>Welcome</h3>
 <br/>
  SQL pratice and storage. 
 <br/>
